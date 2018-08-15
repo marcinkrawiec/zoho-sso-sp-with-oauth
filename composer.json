@@ -11,5 +11,8 @@
         {
           "name": "ZohoDevelopers"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["index.php"]
+    }    
 }
