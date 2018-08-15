@@ -1,0 +1,15 @@
+{
+    "name": "marcinkrawiec/zoho-sso-sp-with-oauth",
+    "description": "zoho-sso-sp-with-oauth with composer.json",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Marcin Krawiec",
+            "email": "krawiecm@ersoft.pl"
+        },
+        {
+          "name": "ZohoDevelopers"
+        }
+    ]
+}
